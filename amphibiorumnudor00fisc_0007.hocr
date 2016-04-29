@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./amphibiorumnudor00fisc_0007.png"; bbox 0 0 2149 3261; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 331 1057 1341 1097">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 331 1057 1341 1097">
+     <span class='ocr_line' id='line_1_1' title="bbox 331 1057 1341 1097; baseline 0.004 -10"><span class='ocrx_word' id='word_1_1' title='bbox 331 1057 1341 1097; x_wconf 74' lang='lat' dir='ltr'>OPT1MO‚CAR1881MO</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 116 1173 1562 1258">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 116 1173 1562 1258">
+     <span class='ocr_line' id='line_1_2' title="bbox 116 1173 1562 1258; baseline 0.003 -6"><span class='ocrx_word' id='word_1_2' title='bbox 116 1174 182 1252; x_wconf 85' lang='lat' dir='ltr'><strong>J</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 188 1173 445 1253; x_wconf 83' lang='lat' dir='ltr'><strong>OAN.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 503 1175 1012 1255; x_wconf 83' lang='lat' dir='ltr'><strong>ANTONIO</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1071 1175 1562 1258; x_wconf 77' lang='lat' dir='ltr'>FISCHER</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
